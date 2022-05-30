@@ -11,9 +11,9 @@
 
 ## ***Contact information:***
 
-***Pone:***  +7 9123537262
-***E-mail:***  gabdulahatov_na@mail.ru
-***Telegram***  @lili_belkova
+***Pone:***  +7 9123537262\
+***E-mail:***  gabdulahatov_na@mail.ru\
+***Telegram***  @lili_belkova\
 ***GitHub***  [Lili Belkova](https://github.com/Lili-126)
 
 ==============
@@ -50,6 +50,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 
 
 ## ***Code example:***
+```
          
  <section>
 		<h2 class="new">What can I do?</h2>
@@ -68,7 +69,8 @@ My perseverance and attention to detail acquired while working as an accountant,
 	    	<li>With two points</li>
 	    	<li>And even with three separate items</li>
 	    </ul>
-	</section>        
+	</section>
+   ```        
 
 
 ===============
