@@ -14,7 +14,7 @@
 ***Pone:***  +7 9123537262
 ***E-mail:***  gabdulahatov_na@mail.ru
 ***Telegram***  @lili_belkova
-***GitHub***  @Lili-126
+***GitHub***  [Lili Belkova](https://github.com/Lili-126)
 
 ==============
 
