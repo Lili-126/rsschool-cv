@@ -46,6 +46,31 @@ My perseverance and attention to detail acquired while working as an accountant,
 + Adobe Photoshop
 
 
+==============
+
+
+## ***Code example:***
+         
+ <section>
+		<h2 class="new">What can I do?</h2>
+		<p class="text">
+		I know how to create such wonderful shapes
+	    </p>
+	    <form action="#">
+	    	<input type="text" name="name" placeholder="Имя" required>
+	    	<input type="email" name="email" placeholder="E-mail" required>
+	    	<input type="tel" name="phone" placeholder="Телефон" required>
+	    	<button type="submit">Submit the form</button>
+	    </form>
+	    <p>And also, I can create lists:</p>
+	    <ul>
+	    	<li>With one point</li>
+	    	<li>With two points</li>
+	    	<li>And even with three separate items</li>
+	    </ul>
+	</section>        
+
+
 ===============
 
 ## ***Education***
