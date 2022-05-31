@@ -1,12 +1,9 @@
 # ***Lili Belkova***
 
 
-=============
-
-
 ## ***Junior Fronted Developer*** 
 
-=============
+***
 
 
 ## ***Contact information:***
@@ -16,7 +13,8 @@
 ***Telegram***  @lili_belkova\
 ***GitHub***  [Lili Belkova](https://github.com/Lili-126)
 
-==============
+***
+
 
 ## ***Briefly About Myself:***
 
@@ -32,7 +30,7 @@ I like that by studying new technologies in the field of IT, you can get unlimit
 My perseverance and attention to detail acquired while working as an accountant, as well as the ability to learn and acquire new skills, help me in mastering a new profession.
 
 
-================
+***
 
 
 ## ***Skills and Proficiency:***
@@ -46,7 +44,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 + Adobe Photoshop
 
 
-==============
+***
 
 
 ## ***Code example:***
@@ -73,7 +71,7 @@ My perseverance and attention to detail acquired while working as an accountant,
    ```        
 
 
-===============
+***
 
 ## ***Education***
 
@@ -90,7 +88,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 + JavaScript (in process...)         
 
 
-===============
+***
 
 
 ## ***Languages***
