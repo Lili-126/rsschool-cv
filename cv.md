@@ -1,4 +1,4 @@
-<img src="img\IMG_20190126_200623.jpg" width="180"/>
+<img src="IMG_20190126_200623.jpg" width="180"/>
 
 # ***Lili Belkova***
 
