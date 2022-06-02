@@ -1,3 +1,5 @@
+<img src="img\IMG_20190126_200623.jpg" width="180"/>
+
 # ***Lili Belkova***
 
 
@@ -8,9 +10,9 @@
 
 ## ***Contact information:***
 
-***Pone:***  +7 9123537262
+***Phone:***  +7 9123537262
 
-***E-mail:***  gabdulahatov_na@mail.ru
+***Email:***  gabdulahatov_na@mail.ru
 
 
 ***Telegram***  @lili_belkova
