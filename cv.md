@@ -10,14 +10,14 @@
 
 ## ***Contact information:***
 
-***Phone:***  +7 9123537262
+***Address:***	 Orenburg, Russia
 
 ***Email:***  gabdulahatov_na@mail.ru
 
 
-***Telegram***  @lili_belkova
+***Telegram:***	  @lili_belkova
 
-***GitHub***  [Lili Belkova](https://github.com/Lili-126)
+***GitHub:***  [Lili Belkova](https://github.com/Lili-126)
 
 ***
 
@@ -56,25 +56,17 @@ My perseverance and attention to detail acquired while working as an accountant,
 ## ***Code example:***
 ```
          
- <section>
-		<h2 class="new">What can I do?</h2>
-		<p class="text">
-		I know how to create such wonderful shapes
-	    </p>
-	    <form action="#">
-	    	<input type="text" name="name" placeholder="Имя" required>
-	    	<input type="email" name="email" placeholder="E-mail" required>
-	    	<input type="tel" name="phone" placeholder="Телефон" required>
-	    	<button type="submit">Submit the form</button>
-	    </form>
-	    <p>And also, I can create lists:</p>
-	    <ul>
-	    	<li>With one point</li>
-	    	<li>With two points</li>
-	    	<li>And even with three separate items</li>
-	    </ul>
-	</section>
-   ```        
+ <section class="skills">
+                <h2 class="h2-skills">Skills</h2>
+                <ul class="section-skills">
+                  <li class="ul-skills">HTML5, CSS3</li>
+                  <li class="ul-skills">JavaScript Basics (in process...)</li>
+                  <li class="ul-skills">Git, GitHub</li>
+                  <li class="ul-skills">VS Code, Sublime Text</li>
+                  <li class="ul-skills">Adobe Photoshop</li>
+                </ul>
+              </section>
+   ```      
 
 
 ***
