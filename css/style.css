@@ -1,4 +1,6 @@
 body{
+    padding: 0;
+    margin: 0;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -6,40 +8,103 @@ body{
     color: #663300;
 }
 
-  nav {
+div.container-one {
     position: absolute;
     top: 0;
     right: 0;
-    width: 950px;
-    height: 50px;
+    width: 900px;
+    height: 250px;
+    padding: 0;
+    margin: 0;
     background-color: #ffdab9
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
     text-align: center;
 }
 
 nav ul li {
     display: inline-block;
-      margin-left: 25px;
+    margin-left: 25px;
 }
 
- a.menu    {
+a.menu    {
     text-decoration: none;
     letter-spacing: 2px;
-    color: gray;
+    color: rgb(51, 49, 49);
+    font-weight: 400;
 }
 
-h1.profile-title, h3.profile-title {
+h1.profile-title {
     text-shadow: 5px 5px 10px;
     font-weight: bold;
     letter-spacing: 5px;
-     }
+    text-align: center;
+    font-size: 40px;
+ }
 
-      
+ h3.profile-title {
+    text-shadow: 5px 5px 10px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-align: center;
+ }
+
+ div.container-two {
+    margin: 30px 0px 0px 80px;
+ }
+
+img.photo {
+    border: 0.1px solid;
+    border-radius: 135px;
+}
+
+div.container-three {
+    padding: 20px;
+    margin: 50px 0px 70px;
+    width: 400px;
+    background-color: #ffdab9;
+}
+
+h2 {
+    text-align: center;
+}
+
+section ul {
+    list-style-type: none;
+    font-weight: 400;
+}
+
+a.span {
+    text-decoration: none;
+    color: rgb(51, 49, 49);
+}
+
+div.container-four {
+    padding: 10px;
+    margin: 50px 0px 70px;
+    width: 1000px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
