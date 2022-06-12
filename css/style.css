@@ -1,3 +1,48 @@
-h1 {
-    color: blue;
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.8;
+    color: #663300;
 }
+
+  nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 950px;
+    height: 50px;
+    background-color: #ffdab9
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+      margin-left: 25px;
+}
+
+ a.menu    {
+    text-decoration: none;
+    letter-spacing: 2px;
+    color: gray;
+}
+
+h1.profile-title, h3.profile-title {
+    text-shadow: 5px 5px 10px;
+    font-weight: bold;
+    letter-spacing: 5px;
+     }
+
+      
+
+
+
+
+
+
