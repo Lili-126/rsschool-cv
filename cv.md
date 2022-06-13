@@ -1,4 +1,4 @@
-<img src="IMG_20190126_200623.jpg" width="180"/>
+<img src="image/photo.jpg" width="180"/>
 
 # ***Lili Belkova***
 
@@ -10,7 +10,6 @@
 
 ## ***Contact information:***
 
-***Address:***	 Orenburg, Russia
 
 ***Email:***  gabdulahatov_na@mail.ru
 

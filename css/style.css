@@ -6,7 +6,6 @@ body{
     font-weight: 300;
     line-height: 1.8;
     color: #663300;
-    
 }
 
 div.container-one {
@@ -89,7 +88,7 @@ a {
 }
 
 div.container-four {
-    padding: 10px 0px 0px 20px;
+    padding: 10px 10px 10px 20px;
     margin: 50px 0px 15px 15px;
     width: 900px;
     height: 1270px;
@@ -109,6 +108,7 @@ div.container-five {
     text-decoration: none;
     color: rgb(51, 49, 49);
  }
+ 
 
 
 
