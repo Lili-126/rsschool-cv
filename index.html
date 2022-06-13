@@ -1,12 +1,135 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="keywords" content="frontend, JS, CSS, HTML">
+    <title>CV-Lilia</title>
+    <link rel="shortcut icon" href="image/favicon1.ico"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    
+
+<body background="image\img2323.png">
+  <header>
+      <div class="container-one">
+          <nav>
+            <ul>
+              <li><a href="#Contacts" class="menu">Contacts</a></li>
+              <li><a href="#Skills" class="menu">Skills</a></li>
+              <li><a href="#Languages" class="menu">Languages</a></li>
+              <li><a href="#Myself" class="menu">About myself</a></li>
+              <li><a href="#Education" class="menu">Education</a></li>
+              <li><a href="#Code" class="menu">Code</a></li>
+            </ul>
+          </nav>
+          <section class="profile">
+            <h1 class="profile-title">Liliya Belkova</h1>
+            <h3 class="profile-title">Junior Frontend Developer</h3>
+          </section>
+      </div>
+          <div class="container-two">
+            <div>
+              <img src="image/photo.jpg" alt="PhotoM" class="photo" width="230">
+            </div>
+          </div>
+      </header>
+    <main>
+      <div id="main">
+          <div class="container-three">
+            <section class="contacts">
+                <h2 id="Contacts">Contacts</h2>
+                <ul class="section-contacts">
+                  <li class="ul-contacts">
+                     Email: <a href="mailto:irinainina@gmail.com" target="_blank" class="span" title="email">gabdulahatov_na@mail.ru</a>
+                  </li>
+                  <li class="ul-contacts">
+                    Github: <a href="https://github.com/Lili-126" target="_blank" class="span" title="github">Lili Belkova</a>
+                  </li>
+                  <li class="ul-contacts">
+                    Telegram: <a href="https://t.me/lili_belkova" target="_blank" class="span" title="telegram">@lili_belkova</a>
+                  </li>
+                 </ul>
+            </section>
+             <section class="skills">
+                <h2 id="Skills">Skills</h2>
+                <ul class="section-skills">
+                  <li class="ul-skills">HTML5, CSS3</li>
+                  <li class="ul-skills">JavaScript Basics (in process...)</li>
+                  <li class="ul-skills">Git, GitHub</li>
+                  <li class="ul-skills">VS Code, Sublime Text</li>
+                  <li class="ul-skills">Adobe Photoshop</li>
+                </ul>
+              </section>
+              <section class="Languages">
+                <h2 id="Languages">Languages</h2>
+                <ul class="section-Languages">
+                  <li class="ul-Languages">Russian:  Native</li>
+                  <li class="ul-Languages">English:  A1 (A2 in process...)</li>
+                </ul>
+              </section>
+          </div>
+          <div class="container-four">
+            <section class="myself">
+              <h2 id="Myself">About Myself</h2>
+              <p>
+                I am an economist by education.  Worked as an accountant for 5 years. Currently I work in real estate.<br>
+                I want to completely change my life and start doing what I'm interested in. This is web development.
+                I am interested in the process of creating web applications and websites. It's interesting to understand how everything works from the inside and interacts with each other.
+                I like that by studying new technologies in the field of IT, you can get unlimited opportunities for professional <br>
+                My perseverance and attention to detail acquired while working as an accountant, as well as the ability to learn and acquire new skills, help me in mastering a new profession.
+              </p>
+            </section>
+            <section class="Education">
+              <h2 id="Education">Education</h2>
+              <p>
+                Regional Financial and Economic Institute
+              </p>
+              <p>
+                Certificate of completion of the course "Effective standards of work of a real estate agent"
+              </p>
+              <p>
+                Certificate of completion of the course "Realtor's growth trajectory"
+              </p>
+              <p>
+                <a href="https://stepik.org/course/52164/syllabus" target="_blank" title="stepik">HTML5/CSS3</a>
+              </p>
+              <p>
+                <a href="https://github.com/rolling-scopes-school/tasks/tree/master/stage0" target="_blank" title="rs school">JavaScript Basics (in process...)</a>
+              </p>
+            </section>
+            <section class="Code">
+              <h2 id="Code">Code</h2>
+            <pre>
+              <code>
+                h1.profile-title {
+                  text-shadow: 5px 5px 10px;
+                  font-weight: bold;
+                  letter-spacing: 5px;
+                  text-align: center;
+                  font-size: 40px;
+               }
+              </code>
+            </pre>
+            </section>
+          </div>
+      </div>
+    </main>
+
+      <footer>
+        <div class="container-five">
+         <div>
+            <p>&copy; 2022 <a href="https://github.com/Lili-126" title="github">Liliya Belkova</a></p>
+         </div>
+         <div>
+            <a href="https://rs.school/js/" id="img" target="_blank" title="rsschool">
+            <img src="image/background.png" alt="rsschool-icon" width="150" height="75">
+           </a>
+         </div>
+        </div>
+      </footer>
 </body>
 </html>
