@@ -21,6 +21,26 @@
 ***
 
 
+## ***Skills and Proficiency:***
+
++ HTML5, CSS3
+        
++ Git, GitHub
+        
++ VS Code, Sublime Text4
+         
++ Adobe Photoshop
+
+***
+
+## ***Languages***
+
+
++ Russian - native speaker.
++ English - A1
+
+***
+
 ## ***Briefly About Myself:***
 
 
@@ -33,39 +53,6 @@ I like that by studying new technologies in the field of IT, you can get unlimit
 
 
 My perseverance and attention to detail acquired while working as an accountant, as well as the ability to learn and acquire new skills, help me in mastering a new profession.
-
-
-***
-
-
-## ***Skills and Proficiency:***
-
-+ HTML5, CSS3
-        
-+ Git, GitHub
-        
-+ VS Code, Sublime Text4
-         
-+ Adobe Photoshop
-
-
-***
-
-
-## ***Code example:***
-```
-         
- <section class="skills">
-                <h2 class="h2-skills">Skills</h2>
-                <ul class="section-skills">
-                  <li class="ul-skills">HTML5, CSS3</li>
-                  <li class="ul-skills">JavaScript Basics (in process...)</li>
-                  <li class="ul-skills">Git, GitHub</li>
-                  <li class="ul-skills">VS Code, Sublime Text</li>
-                  <li class="ul-skills">Adobe Photoshop</li>
-                </ul>
-              </section>
-   ```      
 
 
 ***
@@ -88,11 +75,20 @@ My perseverance and attention to detail acquired while working as an accountant,
 ***
 
 
-## ***Languages***
+## ***Code example:***
+```
+         
+ h1.profile-title {
+                  text-shadow: 5px 5px 10px;
+                  font-weight: bold;
+                  letter-spacing: 5px;
+                  text-align: center;
+                  font-size: 40px;
+               }
+   ```      
 
 
-+ Russian - native speaker.
-+ English - A1
+
 
 
 
