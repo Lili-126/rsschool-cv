@@ -1,4 +1,4 @@
-<img src="image/photo.jpg" width="180"/>
+<img src="./image/photo.jpg" width="180"/>
 
 # ***Lili Belkova***
 
