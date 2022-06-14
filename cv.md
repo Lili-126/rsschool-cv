@@ -1,7 +1,8 @@
-<img src="./image/photo.jpg" width="180"/>
-
-# ***Lili Belkova***
-
+<img src="./ismage/photo.jpg">
+	 
+	 
+	 ***Lili Belkova***
+       
 
 ## ***Junior Fronted Developer*** 
 
@@ -11,12 +12,13 @@
 ## ***Contact information:***
 
 
-***Email:***  gabdulahatov_na@mail.ru
+
 
 
 ***Telegram:***	  @lili_belkova
 
 ***GitHub:***  [Lili Belkova](https://github.com/Lili-126)
+
 
 ***
 
@@ -55,6 +57,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 ## ***Code example:***
 ```
          
+
  <section class="skills">
                 <h2 class="h2-skills">Skills</h2>
                 <ul class="section-skills">
