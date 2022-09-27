@@ -3,7 +3,7 @@
 # ***Lili Belkova***
 
 
-## ***Junior Fronted Developer*** 
+## ***Junior Fronted Developer***
 
 ***
 
@@ -24,11 +24,11 @@
 ## ***Skills and Proficiency:***
 
 + HTML5, CSS3
-        
+
 + Git, GitHub
-        
+
 + VS Code, Sublime Text4
-         
+
 + Adobe Photoshop
 
 ***
@@ -60,16 +60,16 @@ My perseverance and attention to detail acquired while working as an accountant,
 ## ***Education***
 
 + Regional Financial and Economic Institute
-       
+
    - Economist
-             
+
 +  Certificate of completion of the course "Effective standards of work of a real estate agent"
-         
+
 +  Certificate of completion of the course "Realtor's growth trajectory"
-          
-+ HTML5/CSS3 
-          
-+ JavaScript (in process...)         
+
++ HTML5/CSS3
+
++ JavaScript (in process...)
 
 
 ***
@@ -77,7 +77,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 
 ## ***Code example:***
 ```
-         
+
  h1.profile-title {
                   text-shadow: 5px 5px 10px;
                   font-weight: bold;
@@ -85,7 +85,7 @@ My perseverance and attention to detail acquired while working as an accountant,
                   text-align: center;
                   font-size: 40px;
                }
-   ```      
+   ```
 
 
 
