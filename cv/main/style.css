@@ -20,7 +20,7 @@ body {
     "aside main"
     "footer footer";
     grid-template-columns: 32% 68%;
-    grid-template-rows: 370px 1100px 80px;
+    grid-template-rows: 370px 1610px 80px;
     gap: 60px;
     width: 100vw;
     height: 100vh;
@@ -201,17 +201,17 @@ body {
     body {
         grid-template-areas:
         "header header"
-        "aside aside"
-        "main main"
+        /* "aside aside" */
+        "aside main"
         "footer footer";
         grid-template-columns: 32% 68%;
-        grid-template-rows: 160px 310px 261px 35px;
-        gap: 15px;
-        font-size: calc(1.8vw + 2px);
-        /* grid-template-rows: 160px 450px 35px;
+        grid-template-rows: 160px 825px /* 261px */ 35px;
+        /* gap: 15px;
+        font-size: calc(1.8vw + 2px); */
+        grid-template-rows: 170px 680px 35px;
         gap: 15px;
         padding-top: 5px;
-        font-size: calc(1.6vw + 2px); */
+        font-size: calc(1.8vw);
        }
 
        .container-header {
@@ -253,18 +253,19 @@ body {
         padding-bottom: 5px;
     }
 
-    .code {
+    /* .code {
         display: none;
     }
-
+ */
     .wrapper-footer {
         /* grid-template-columns: 80% 20%; */
+        grid-template-columns: 50% 50%;
         grid-template-rows: 40px;
     }
 
     .wrapper__text {
         margin-top: 0px;
-        margin-left: 40px;
+       /*  margin-left: 40px; */
     }
 
     .logo-rss {
