@@ -1,6 +1,5 @@
-# RSSchool-cv
-https://lili-126.github.io/rsschool-cv/
+
+1 - CV
+https://lili-126.github.io/rsschool-cv/cv/main/index.html
 
 
-
-https://github.com/Lili-126/rsschool-cv/blob/rsschool-cv-html/cv.md
