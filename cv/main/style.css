@@ -136,7 +136,7 @@ body {
 
  @media screen and (max-width: 768px) {
     body {
-        grid-template-rows: 275px 840px 40px;
+        grid-template-rows: 275px 930px 40px;
         gap: 30px;
         font-size: calc(1.5vw + 1px);
        }
@@ -158,7 +158,6 @@ body {
        }
 
        .menu__list {
-        display: inline-block;
         margin-left: 10px;
     }
 
