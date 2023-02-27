@@ -52,12 +52,10 @@
 ## ***Briefly About Myself:***
 
 
-I am an economist by education.  Worked as an accountant for 5 years. I am currently working as a real estate agent.
+I am an economist by education. Worked as an accountant.
 
 
-I want to completely change my life and start doing what I'm interested in. This is web development.
-I am interested in the process of creating web applications and websites. It's interesting to understand how everything works from the inside and interacts with each other.
-I like that by studying new technologies in the field of IT, you can get unlimited opportunities for professional growth.
+At the moment I'm learning a new profession - a front-end developer. I really like what I'm doing now. By learning new technologies, you can get unlimited opportunities for personal development and professional growth.
 
 
 My perseverance and attention to detail acquired while working as an accountant, as well as the ability to learn and acquire new skills, help me in mastering a new profession.
@@ -69,13 +67,7 @@ My perseverance and attention to detail acquired while working as an accountant,
 
 + Regional Financial and Economic Institute
 
-   - Economist
-
-+  Certificate of completion of the course "Effective standards of work of a real estate agent"
-
-+  Certificate of completion of the course "Realtor's growth trajectory"
-
-+ HTML5/CSS3
++ Certificate of completion of the course "Effective standards of work of a real estate agent"
 
 + JavaScript (in process...)
 
