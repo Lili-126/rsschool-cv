@@ -1,4 +1,4 @@
-<img src="../assent/photo-cv/photo.jpg width='180'">
+<img src="assent/photo-cv/photo.jpg" width='180'>
 
 # ***Lili Belkova***
 
