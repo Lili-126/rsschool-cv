@@ -210,18 +210,15 @@ body {
        }
 
        .container-header {
-        grid-template-rows: 160px;
+        grid-template-rows: 170px;
         justify-items: stretch;
        }
 
        .photo {
-        width: 80%;
         margin-left: 5px;
-        margin-right: 0;
        }
 
        .navigation {
-        width: 90%;
         padding-top: 10px;
        }
 
