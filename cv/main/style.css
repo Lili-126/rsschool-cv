@@ -205,10 +205,10 @@ body {
         "aside main"
         "footer footer";
         grid-template-columns: 32% 68%;
-        grid-template-rows: 160px 825px /* 261px */ 35px;
+        grid-template-rows: 160px 560px /* 261px */ 35px;
         /* gap: 15px;
         font-size: calc(1.8vw + 2px); */
-        grid-template-rows: 170px 680px 35px;
+        grid-template-rows: 170px 560px 35px;
         gap: 15px;
         padding-top: 5px;
         font-size: calc(1.8vw);
@@ -253,6 +253,10 @@ body {
         padding-bottom: 5px;
     }
 
+    .main-info {
+        padding: 15px;
+    }
+
     /* .code {
         display: none;
     }
@@ -264,7 +268,7 @@ body {
     }
 
     .wrapper__text {
-        margin-top: 0px;
+        margin-top: 20px;
        /*  margin-left: 40px; */
     }
 
