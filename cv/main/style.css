@@ -250,17 +250,11 @@ body {
     }
 
     .wrapper-footer {
-        /* grid-template-columns: 80% 20%; */
         grid-template-columns: 50% 50%;
         grid-template-rows: 40px;
     }
 
     .wrapper__text {
         margin-top: 20px;
-       /*  margin-left: 40px; */
     }
-
-    .logo-rss {
-            max-width: 100px;
-         }
 }
