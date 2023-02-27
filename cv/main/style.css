@@ -200,14 +200,10 @@ body {
     body {
         grid-template-areas:
         "header header"
-        /* "aside aside" */
         "aside main"
         "footer footer";
         grid-template-columns: 32% 68%;
-        grid-template-rows: 160px 560px /* 261px */ 35px;
-        /* gap: 15px;
-        font-size: calc(1.8vw + 2px); */
-        grid-template-rows: 170px 560px 35px;
+        grid-template-rows: 170px 570px 35px;
         gap: 15px;
         padding-top: 5px;
         font-size: calc(1.8vw);
