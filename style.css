@@ -1,0 +1,260 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(36, 38, 40);
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+      "header header"
+      "aside main"
+      "footer footer";
+  grid-template-columns: 32% 68%;
+  grid-template-rows: 370px 1610px 80px;
+  gap: 60px;
+  width: 100vw;
+  height: 100vh;
+  background:
+      url(./image/img2323.png) repeat;
+  padding-top: 15px;
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+  font-size: calc(1.3vw + 1px); /* 1410px * 1.3% + 1px */
+  font-weight: 400;
+  line-height: 1.8;
+  color: #8b4806;
+}
+
+#box-header {
+  grid-area: header;
+}
+
+#box-aside {
+  grid-area: aside;
+}
+
+#box-main {
+  grid-area: main;
+}
+
+#box-footer {
+  grid-area: footer;
+}
+
+.container-header {
+  display: grid;
+  grid-template-columns: 32% 68%;
+  grid-template-rows: 370px;
+  justify-items: center;
+}
+
+.photo {
+  width: 55%;
+  margin-right: 80px;
+  border-radius: 10px;
+}
+
+.navigation {
+  width: 84%;
+  padding-top: 30px;
+  border-radius: 10px;
+  background-color: #f0d5bf7a;
+}
+
+.menu {
+  text-align: center;
+}
+
+.menu__list {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.menu__link {
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.title__name {
+  text-shadow: 5px 5px 10px;
+  font-weight: bold;
+  letter-spacing: 7px;
+  text-align: center;
+  font-size: calc(4.1vw + 1px); /* 1410px * 4.1% + 2px */
+}
+
+.title__profession {
+  text-shadow: 5px 5px 10px;
+  font-weight: bold;
+  letter-spacing: 6px;
+  text-align: center;
+}
+
+.data {
+  width: 92%;
+  border-radius: 10px;
+  padding: 0 30px 30px;
+  background-color: #f0d5bf7a;
+}
+
+.title {
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+.main-info {
+  padding: 0 30px 30px;
+  width: 87%;
+}
+
+.wrapper-footer {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  grid-template-rows: 80px;
+}
+
+.wrapper__text {
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
+.logo-rss {
+  max-width: 150px;
+  margin-left: 80px;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+      grid-template-rows: 275px 930px 40px;
+      gap: 30px;
+      font-size: calc(1.5vw + 1px);
+  }
+
+  .container-header {
+      grid-template-rows: 275px;
+      justify-items: stretch;
+  }
+
+  .photo {
+      width: 80%;
+      margin-right: 0px;
+      margin-left: 10px;
+  }
+
+  .navigation {
+      width: 90%;
+      background: url(../assent/background/img2323.png) repeat;
+  }
+
+  .menu__list {
+      margin-left: 10px;
+  }
+
+  .title__name {
+      font-size: calc(5.1vw + 1px);
+      letter-spacing: 4px;
+  }
+
+  .data {
+      width: 100%;
+  }
+
+  .title {
+      padding-top: 15px;
+      padding-bottom: 15px;
+  }
+
+  .main-info {
+      width: 92%;
+      padding-left: 0px;
+      padding-right: 12px;
+  }
+
+  .wrapper-footer {
+      grid-template-rows: 40px;
+  }
+
+  .wrapper__text {
+      margin-top: 0px;
+      margin-left: 40px;
+  }
+
+  .logo-rss {
+      max-width: 100px;
+      margin-left: 60px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+      grid-template-areas:
+          "header header"
+          "aside main"
+          "footer footer";
+      grid-template-columns: 32% 68%;
+      grid-template-rows: 170px 570px 35px;
+      gap: 15px;
+      padding-top: 5px;
+      font-size: calc(1.8vw);
+  }
+
+  .container-header {
+      grid-template-rows: 170px;
+      justify-items: stretch;
+  }
+
+  .photo {
+      margin-left: 5px;
+  }
+
+  .navigation {
+      padding-top: 10px;
+  }
+
+  .menu {
+      display: none;
+  }
+
+  .title__profession {
+      padding-top: 15px;
+      letter-spacing: 3px;
+  }
+
+  .data {
+      padding: 15px;
+  }
+
+  .title_data {
+      text-align: start;
+      padding-left: 30px;
+  }
+
+  .title {
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+
+  .main-info {
+      padding: 15px 5px 15px 15px;
+  }
+
+  .wrapper-footer {
+      grid-template-columns: 50% 50%;
+      grid-template-rows: 40px;
+  }
+
+  .wrapper__text {
+      margin-top: 20px;
+  }
+}
